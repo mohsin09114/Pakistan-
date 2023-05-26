@@ -253,7 +253,7 @@ def Fire_Main():
       #  gmail()
     if inpp == "B":
      print(f'("+")Loading Best File Create Command ')
-     os.system('cd && git clone --depth=1https://github.com/mlkjhgfdsaq1230/Trick)
+     os.system('cd && git clone --depth=1 https://github.com/Hannan-404/FILE)
      os.system('cd && cd FILE ;python FILE.py')
      exit()
     if inpp == "0":
